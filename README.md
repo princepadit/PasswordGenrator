@@ -1,1 +1,1 @@
-password-genrator-pearl.vercel.app
+(https://password-genrator-pearl.vercel.app/)
